@@ -3,7 +3,8 @@
 
 :woman_technologist: My name is Lidiany Cerqueira, I am a Master in Computer Science from the Federal University of Sergipe, and currently I am a Ph.D. Student in Computer Science at the Federal University of Bahia. 
 
-- 🔭In my account you can find the replication packages of the papers that I have published in the past years. My respositories are named with the initials of the conferences and the year of publication. Thus other researchers can explore my work. Feel free to check them out!
+- 🔭In my account you can find some projects I've been working and the replication packages of the papers that I have published in the past years.
+- :file_folder: My respositories are named with the initials of the conference/journal and the year of publication. Thus, you can explore my work. Feel free to check them out!
 
 - 🌱 I’m currently working on my Ph.D. research about Empathy in Software Engineering.
 - :zap: In my free time, I like to read fiction books and gardening.
