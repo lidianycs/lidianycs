@@ -1,7 +1,7 @@
 ## Hi There!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
-:woman_technologist: My name is Lidiany Cerqueira. I have a Master's in Computer Science from the Federal University of Sergipe, and currently, I am a Ph.D. Student in Computer Science at the Federal University of Bahia. I went abroad for a six-month internship at Virginia Commonwealth University as a Visiting scholar, sponsored by the Capes PrInt program.    
+:woman_technologist: My name is Lidiany Cerqueira. I have a Master's in Computer Science from the Federal University of Sergipe, and currently, I am a Ph.D. Student in Computer Science at the Federal University of Bahia. I was a Visiting Researcher for six months at Virginia Commonwealth University, sponsored by the Capes PrInt program.  
 
 - 🔭In my account you can find some projects I've been working and the replication packages of the papers that I have published in the past years.
 - :file_folder: My respositories are named with the initials of the conference/journal and the year of publication. Thus, you can explore my work. Feel free to check them out!
