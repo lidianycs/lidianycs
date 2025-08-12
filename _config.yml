@@ -1,0 +1,27 @@
+title: Lidiany Cerqueira
+name: Lidiany Cerqueira
+description: Software Engineering Researcher
+url: "https://lidianycs.github.io"
+email: lidianycs@gmail.com
+# Theme
+remote_theme: academicpages/academicpages
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+# Social links
+github_username: lidianycs
+linkedin_username: lidianycs
+google_scholar_id: kxhHAW4AAAAJ
+orcid: 0000-0002-4989-0986
+avatar: images/profile.jpg
+
+# Build
+markdown: kramdown
+highlighter: rouge
+include: ["_pages"]
+permalink: /:categories/:title/
+collections:
+  teaching:
+    output: true
+  talks:
+    output: true
