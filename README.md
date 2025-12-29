@@ -1,7 +1,7 @@
 ## Hi There!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 
-:woman_technologist: I have a PhD in Computer Science from the Federal University of Bahia (Salvador, Brazil), with a visiting research period at Virginia Commonwealth University (Richmond, United States). Using mixed-methods approaches, my research focuses on the human aspects of software engineering, particularly empathy, team dynamics, developers' well-being, productivity, and inclusion. I have over 15 years of industry experience as a software engineer, working for a startup company and at large government institutions.  
+:woman_technologist: I am a Senior Software Engineer and Computer Science researcher working at the intersection of software engineering and human values. With over 15 years of industry experience and a PhD in Computer Science, my work focuses on Human-Centric Computing, Software Engineering, and Empirical Research.
 
 - 🔭In my account, you can find some projects I've been working on and the replication packages of the papers that I have published in the past years.
 - :file_folder: My repositories are named with the initials of the conference/journal and the year of publication. Thus, you can explore my work. Feel free to check them out!
